@@ -39,3 +39,14 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+/*  Roll The Dice Button */
+.roll{
+  background-color: rgb(128, 236, 77);
+  height: 40px;
+  width: 60px;
+  font-style:italic;
+  font-weight:bold;
+  border-radius:8px;
+
+
+}
